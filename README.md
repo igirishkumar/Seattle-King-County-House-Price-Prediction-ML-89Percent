@@ -16,7 +16,7 @@ CatBoost dominates Seattle/King County house prices → $50,860 MAE (89.25% accu
 - **Size**: 21,613 houses | 21 original columns
 - **Target**: `price` (log-transformed for training)
   
-Note: "This dataset is found in Kaggle: [king_county_houses_aa](https://www.kaggle.com/datasets/minasameh55/king-country-houses-aa)"
+#### Note: "This dataset is found in Kaggle: [king_county_houses_aa](https://www.kaggle.com/datasets/minasameh55/king-country-houses-aa)"
 ---
 
 ## 🎯 Objective
